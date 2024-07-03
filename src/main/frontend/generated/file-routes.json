@@ -1,7 +1,12 @@
 [
   {
-    "route": "",
+    "route": "Add",
     "params": {},
-    "title": "home"
+    "title": "Add"
+  },
+  {
+    "route": "Home",
+    "params": {},
+    "title": "Home"
   }
 ]
