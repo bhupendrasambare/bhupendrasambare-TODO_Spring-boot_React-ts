@@ -1,3 +1,3 @@
 # TODO Application
 
-## Spring boot + Vaadin
+## Spring boot + Vaadin UI
